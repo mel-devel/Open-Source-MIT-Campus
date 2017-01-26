@@ -14,11 +14,13 @@ Please visit our project website for more information
 [Tangible Map at the MIT Design Lab](design.mit.edu/mit-atlas-tangible-map/)
 
 # Contributors
-Will Walker
-willwalker.studio
+Will Walker  
+[willwalker.studio](http://willwalker.studio)
 
-CK Ong
-ckskylight.com
+CK Ong  
+[ckskylight.com](http://www.ckskylight.com)
 
-Hyungie Sung
+Hyungie Sung  
+
+Marco Aguilar
 
